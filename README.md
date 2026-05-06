@@ -1,22 +1,5 @@
 # Operational Analytics for Animal Shelter Efficiency
 
-#### Overview
-<img src="images/overview.png">
-
-#### Intakes & Outcomes view
-<img src="images/intakes and outcomes.png">
-
-#### Repeat Intakes view
-<img src="images/repeat intakes.png">
-
-#### Live Release Analysis View
-<img src="images/live release analysis.png">
-
-#### Length of Stay View
-<img src="images/length of stay.png">
-
-<hr>
-
 ### Project Overview
 
 This project was created as part of my submission for the Onyx DataDNA Challenge - December 2025, wherein I created a comprehensive five-pager report to analyze Animal Shelter Intakes and Outcomes dataset from the City of Long Beach Animal Care Services.
