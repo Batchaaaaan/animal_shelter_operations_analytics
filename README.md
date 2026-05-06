@@ -1,10 +1,10 @@
 # Operational Analytics for Animal Shelter Efficiency
 
-### Project Overview
+### Project Statement
 
-This project was created as part of my submission for the Onyx DataDNA Challenge - December 2025, wherein I created a comprehensive five-pager report to analyze Animal Shelter Intakes and Outcomes dataset from the City of Long Beach Animal Care Services.
+Animal shelters face challenges in managing intake volume, reducing overcrowding, and improving adoption rates. Inefficient allocation of resources and lack of data-driven decision-making can lead to longer shelter stays and lower adoption success.
 
-The goal is to create a Power BI report that uncovers operational trends, improves understanding of live-release performance, and supports data-driven decisions related to shelter capacity, resource planning, and animal welfare outcomes.
+This project analyzes shelter operations data to identify key factors affecting adoption outcomes and operational efficiency, with the goal of supporting better decision-making.
 
 ### About Data
 
