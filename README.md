@@ -1,4 +1,4 @@
-# Animal Shelter Operations Analytics
+# Operational Analytics for Animal Shelter Efficiency
 
 #### Overview
 <img src="images/overview.png">
